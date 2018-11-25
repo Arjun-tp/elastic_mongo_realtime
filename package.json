@@ -1,0 +1,25 @@
+{
+  "name": "elastic_mongo_realtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun-tp/elastic_mongo_realtime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun-tp/elastic_mongo_realtime/issues"
+  },
+  "homepage": "https://github.com/Arjun-tp/elastic_mongo_realtime#readme"
+}
